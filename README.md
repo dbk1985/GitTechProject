@@ -14,6 +14,6 @@
 
 ### 图像处理
   [libwebp](https://github.com/webmproject/libwebp)*C* -webp格式图片  
-  
+  [TOCropViewController](https://github.com/TimOliver/TOCropViewController)*Swift+ObjC* - 裁剪图片  
 ### 浏览器
   [firefox](https://github.com/mozilla-mobile) [翻墙工具](https://github.com/killgcd/FirefoxFQ)
