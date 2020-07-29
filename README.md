@@ -20,4 +20,4 @@
 
 ### CocosGame
   [皇家守卫军](https://github.com/wuhaoyu1990/KingdomRush) [技术博客](https://blog.csdn.net/oshunz) [CocosCreator Shader](https://github.com/fylz1125/ShaderDemos)
-  [Effects](https://github.com/colinsusie/creator_2_0_material_demo)
+  [Effects](https://github.com/colinsusie/creator_2_0_material_demo)[Effects cocos forum](https://forum.cocos.org/t/creator2-0/64727)
